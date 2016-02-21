@@ -1,7 +1,7 @@
 # Entify
 
 ## ALGORITHM
-Defines entities using kmeans clustering to identify locations based
+Defines entities using kmeans clustering to identify locations based on
 latitude & longitude.
 
 ## ABOUT THE DATA
