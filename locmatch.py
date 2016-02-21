@@ -71,5 +71,5 @@ def entify(incsv,outcsv,outimg):
 if __name__ == '__main__':
     INFILE    = "Average_Daily_Traffic_Counts.csv"
     OUTFILE   = "Average_Daily_Traffic_Counts_labelled.csv"
-    IMAGEPATH = "clustersv1.png"
+    IMAGEPATH = "../entify/images/clustersv1.png"
     entify(INFILE,OUTFILE,IMAGEPATH)
