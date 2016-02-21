@@ -1,5 +1,8 @@
 # Entify
 
+![Longitude and Latitude](https://github.com/rebeccabilbro/entify/blob/master/images/Mapa_coordenadas_geogr%C3%A1ficas_editado.jpg)
+By [Ivi](http://geofagia.blogspot.com.br/) [CC0], via Wikimedia Commons
+
 ## ALGORITHM
 Defines entities using kmeans clustering to identify locations based on
 latitude & longitude.
