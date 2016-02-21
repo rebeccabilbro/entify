@@ -19,5 +19,10 @@ developers, marketers and many others for myriad planning and operational
 purposes. Data Owner: Transportation. Time Period: 2006. Frequency: A
 citywide count is taken approximately every 10 years.
 
-## SOURCE + METADATA:
+## SOURCE + METADATA
 Can be found at http://catalog.data.gov/dataset/average-daily-traffic-counts-3968f
+
+## ADDITIONAL READINGS
+[Entity Resolution in Geospatial Data](http://linqs.cs.umd.edu/basilic/web/Publications/2006/entity-res-geodata/sehgal-acmgis06.pdf) by Vivek Sehgal, Lise Getoor, and Peter D Viechnicki
+
+[GeoDDupe: A Novel Interface for Interactive Entity Resolution in Geospatial Data](http://linqs.umiacs.umd.edu/projects/geoddupe/IV07-Kang.pdf) by Hyunmo Kang, Vivek Sehgal, and Lise Getoor
